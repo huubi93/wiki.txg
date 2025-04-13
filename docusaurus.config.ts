@@ -5,6 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'TXG Wiki',
   tagline: 'Tài liệu nội bộ TXG',
+  trailingSlash: false,
   favicon: 'img/favicon.ico',
 
   // ✅ Cấu hình URL và baseUrl cho GitHub Pages
