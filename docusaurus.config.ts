@@ -59,7 +59,7 @@ const config: Config = {
       title: 'TXG Wiki',
       logo: {
         alt: 'TXG Wiki Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.jpg',
       },
       items: [
         {
