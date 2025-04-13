@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktxg_wiki=self.webpackChunktxg_wiki||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/wiki.txg/blog","blogTitle":"Blog","authorsListPath":"/wiki.txg/blog/authors"}')}}]);
